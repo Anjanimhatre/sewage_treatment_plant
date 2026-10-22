@@ -112,4 +112,6 @@ None are required to run the project as it is. If you add an email service or ot
 
 ## License
 
-All rights reserved © 2026 AquaPure. Update this section with your preferred license.
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this code, subject to the terms of the license.
