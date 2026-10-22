@@ -204,7 +204,7 @@ function WaterTrail() {
     const mask = document.createElement("canvas");
     const mctx = mask.getContext("2d")!;
     const img = new Image();
-    img.src = "/w13.png";
+    img.src = "/w1.png";
     let w = 0, h = 0, raf = 0, mx = -1, my = -1, px = -1, py = -1;
     const size = () => {
       w = window.innerWidth; h = window.innerHeight;
